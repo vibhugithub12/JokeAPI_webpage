@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/JokeAPI_webpage/static/css/main.827ad62a.css",
+    "main.js": "/JokeAPI_webpage/static/js/main.4cc1df96.js",
+    "index.html": "/JokeAPI_webpage/index.html",
+    "main.827ad62a.css.map": "/JokeAPI_webpage/static/css/main.827ad62a.css.map",
+    "main.4cc1df96.js.map": "/JokeAPI_webpage/static/js/main.4cc1df96.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.827ad62a.css",
+    "static/js/main.4cc1df96.js"
+  ]
+}
