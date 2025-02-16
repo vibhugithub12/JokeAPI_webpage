@@ -11,8 +11,8 @@ const Home=()=> {
     const generateJoke=async()=>{
             try{
                 setJoke("⏳⌛");
-                const response = await Axios.get(jokeAPIKey);
-                // const response = await Axios.get(jokeAPIKey2);
+                // const response = await Axios.get(jokeAPIKey);
+                const response = await Axios.get(jokeAPIKey2);
                 const res=response.data;
                 setJoke(res["setup"]+"\n"+res["punchline"]);
                 console.log(res);
