@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import '../css/home.css';
-import Axios from 'axios';
+// import Axios from 'axios';
 import {jokeAPIKey,jokeAPIKey2} from '../API/apikey';
 
 const Home=()=> {
