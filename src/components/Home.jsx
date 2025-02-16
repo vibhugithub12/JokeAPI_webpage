@@ -12,6 +12,7 @@ const Home=()=> {
             try{
                 setJoke("⏳⌛");
                 // const response = await Axios.get(jokeAPIKey);
+             // const res = response.data();
                const response = await fetch(jokeAPIKey2);
                const res = await response.json();
 
